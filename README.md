@@ -30,9 +30,14 @@ I'm working at **IGNIUS.** as an Embedded Systems Engineer, where I lead embedde
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=flat&logo=kicad)
+![Altium Designer](https://img.shields.io/badge/-Altium-FF6C37?style=flat&logo=altiumdesigner)
+![Keil](https://img.shields.io/badge/-Keil-1C1C1C?style=flat&logo=arm)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
+![OpenCV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv)
 
 ---
 
