@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm an Electrical Engineer and Embedded Systems Developer with a passion for designing intelligent products — from low-level firmware to complete hardware-software integration.
 
 🔧 **Currently**:  
-I'm working at **IGNIUS.** as an Embedded Systems Engineer, where I lead embedded firmware development, hardware design, and system integration.
+I'm a Embedded Systems Engineer.
 
 💡 **What I do**:
 - 👨‍💻 Embedded Systems (STM32, ESP32, FreeRTOS, CMSIS)
