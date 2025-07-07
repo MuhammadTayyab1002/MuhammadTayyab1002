@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm an Electrical Engineer and Embedded Systems Developer 
 - ⚙️ Machine Interfaces & Automation
 - 🚀 Rapid Prototyping & Product Development
 
-📈 I'm also the founder of **MT Tech**, where I provide freelance services in embedded systems and product development.
+<!--📈 I'm also the founder of **MT Tech**, where I provide freelance services in embedded systems and product development.-->
 
 📈 I'm also the Co-founder of **Glasez**, A premium sunglasses brand.
 
