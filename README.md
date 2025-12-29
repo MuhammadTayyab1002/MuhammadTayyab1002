@@ -12,11 +12,10 @@ Welcome to my GitHub! I'm an Electrical Engineer and Embedded Systems Developer 
 
 <!--📈 I'm also the founder of **MT Tech**, where I provide freelance services in embedded systems and product development.-->
 
-📈 I'm also the Co-founder of **Glasez**, A premium sunglasses brand.
 
 🧠 Always learning:  
 - Currently exploring **Data Science** and **AI for embedded systems**  
-- Building a personal project: **ESP32 GPS-Satellite Tracker**
+- Building a personal project: *OTS-Glucometerr**
 
 ---
 
