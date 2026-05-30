@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1200 320" height="320" width="1200">
+  <defs>
+    <linearGradient y2="0%" x2="100%" y1="0%" x1="0%" id="accent">
+      <stop stop-color="#0ea5e9" offset="0%"></stop>
+      <stop stop-color="#2563eb" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  
+  
+  <rect fill="#f8fafc" height="320" width="1200"></rect>
+  
+  
+  <text letter-spacing="2" fill="#64748b" font-size="14" font-family="Arial, sans-serif" y="50" x="60">PORTFOLIO • 001</text>
+  
+  
+  <text text-anchor="end" letter-spacing="2" fill="#64748b" font-size="14" font-family="Arial, sans-serif" y="50" x="940">RAWALPINDI / PK</text>
+  
+  
+  <text fill="#0f172a" font-weight="900" font-size="68" font-family="Arial Black, sans-serif" y="135" x="60">Muhammad Tayyab</text>
+  
+  
+  <rect fill="url(#accent)" height="3" width="340" y="152" x="60"></rect>
+  
+  
+  <text fill="#475569" font-size="20" font-family="Arial, sans-serif" y="190" x="60">Embedded Systems Engineer — Firmware, IoT &amp; Hardware</text>
+  
+  
+  <text text-anchor="end" fill="#64748b" font-size="16" font-family="Arial, sans-serif" y="235" x="940">STM32 • ESP32 • IoT • FreeRTOS • PCB</text>
+  
+  
+  <text text-anchor="end" fill="#1e40af" font-size="15" font-family="Arial, sans-serif" y="265" x="940">github.com/MuhammadTayyab1002</text>
+</svg>
