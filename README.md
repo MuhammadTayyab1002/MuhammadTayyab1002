@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/assets/hero-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/assets/hero-banner-light.svg">
-  <img alt="Muhammad Tayyab — Embedded Systems & IoT Engineer" src="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/assets/hero-banner-dark.svg" width="100%">
+  <img alt="Muhammad Tayyab — Embedded Systems Engineer" src="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/assets/hero-banner-dark.svg" width="100%">
 </picture>
 
 **Embedded Systems Engineer** with 2+ years of hands-on experience delivering embedded firmware, medical devices, and industrial automation systems. 
