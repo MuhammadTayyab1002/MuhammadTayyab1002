@@ -1,9 +1,9 @@
 <!-- ───────────────  Hero  ─────────────── -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/hero-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/hero-banner-light.svg">
   <img alt="Ibrar Ahmad — Biosensor & embedded engineer" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/hero-banner-dark.svg" width="100%">
-</picture>
+</picture> -->
 
 **Embedded Systems Engineer** with 2+ years of hands-on experience delivering embedded firmware, medical devices, and industrial automation systems. 
 Proven ability to lead cross-functional teams, own full product lifecycles, and translate requirements into 
