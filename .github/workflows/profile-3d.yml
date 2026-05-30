@@ -1,0 +1,70 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily at 18:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-3d.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: GitHub Profile 3D Contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: MuhammadTayyab1002   # ← Changed
+
+      - name: Publish to output branch (additive, retry on race)
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mv profile-3d-contrib /tmp/profile-3d-contrib
+
+          attempt=0
+          until [ $attempt -ge 5 ]; do
+            attempt=$((attempt+1))
+            echo "::group::push attempt $attempt"
+
+            git fetch origin output
+
+            if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+              git checkout -B output origin/output
+            else
+              git checkout --orphan output
+              git rm -rf . >/dev/null 2>&1 || true
+            fi
+
+            rm -rf profile-3d-contrib
+            cp -r /tmp/profile-3d-contrib profile-3d-contrib
+
+            git add profile-3d-contrib
+            if git diff --quiet --cached; then
+              echo "no changes"
+              echo "::endgroup::"
+              break
+            fi
+
+            git commit -m "chore: refresh 3d contribution graph"
+            if git push origin output; then
+              echo "pushed on attempt $attempt"
+              echo "::endgroup::"
+              break
+            fi
+
+            echo "push failed, retrying after backoff"
+            echo "::endgroup::"
+            sleep $((attempt * 5))
+          done

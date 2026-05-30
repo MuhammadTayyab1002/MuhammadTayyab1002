@@ -1,0 +1,139 @@
+// Updates the <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
+// block in README.md with the user's last N public events.
+
+import { readFile, writeFile } from "node:fs/promises";
+
+const USER       = process.env.GH_USERNAME      || "MuhammadTayyab1002";  // ← Changed
+const TARGET     = process.env.TARGET_FILE      || "README.md";
+const MAX_LINES  = Number(process.env.MAX_LINES || 8);
+const TOKEN      = process.env.GITHUB_TOKEN;
+
+if (!TOKEN) {
+  console.error("GITHUB_TOKEN missing");
+  process.exit(1);
+}
+
+const repoUrl = (full) => `[${full}](https://github.com/${full})`;
+const ago = (iso) => {
+  const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (diff < 60)        return `${Math.floor(diff)}s ago`;
+  if (diff < 3600)      return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400)     return `${Math.floor(diff / 3600)}h ago`;
+  if (diff < 86400 * 7) return `${Math.floor(diff / 86400)}d ago`;
+  return new Date(iso).toISOString().slice(0, 10);
+};
+
+async function describePush(e) {
+  const branch = (e.payload.ref || "").replace(/^refs\/heads\//, "");
+  const before = e.payload.before;
+  const head   = e.payload.head;
+  let count = e.payload.distinct_size ?? e.payload.size ?? (e.payload.commits || []).length;
+  let lastMsg = (e.payload.commits || []).slice(-1)[0]?.message;
+
+  if ((!count || !lastMsg) && before && head && before !== "0000000000000000000000000000000000000000") {
+    try {
+      const r = await fetch(`https://api.github.com/repos/${e.repo.name}/compare/${before}...${head}`, {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+          "User-Agent": "github-activity-updater",
+          Accept: "application/vnd.github+json",
+        },
+      });
+      if (r.ok) {
+        const cmp = await r.json();
+        if (typeof cmp.ahead_by === "number") count = cmp.ahead_by;
+        const last = (cmp.commits || []).slice(-1)[0];
+        if (last) lastMsg = last.commit?.message || lastMsg;
+      }
+    } catch { /* swallow */ }
+  }
+
+  const tail = lastMsg ? ` — *${lastMsg.split("\n")[0].slice(0, 70)}*` : "";
+  const n = count || 1;
+  return `⬆️ Pushed \`${n}\` commit${n === 1 ? "" : "s"} to \`${branch}\` in ${repoUrl(e.repo.name)}${tail}`;
+}
+
+const renderers = {
+  PushEvent: describePush,
+  CreateEvent: (e) => {
+    const t = e.payload.ref_type;
+    if (t === "repository") return `✨ Created repo ${repoUrl(e.repo.name)}`;
+    if (t === "branch")     return `🌱 Created branch \`${e.payload.ref}\` in ${repoUrl(e.repo.name)}`;
+    if (t === "tag")        return `🏷️ Tagged \`${e.payload.ref}\` in ${repoUrl(e.repo.name)}`;
+    return `✨ Created ${t} in ${repoUrl(e.repo.name)}`;
+  },
+  DeleteEvent: (e) => `🗑️ Deleted ${e.payload.ref_type} \`${e.payload.ref}\` in ${repoUrl(e.repo.name)}`,
+  ForkEvent: (e)   => `🍴 Forked ${repoUrl(e.repo.name)}`,
+  WatchEvent: (e)  => `⭐ Starred ${repoUrl(e.repo.name)}`,
+  PublicEvent: (e) => `🌍 Made ${repoUrl(e.repo.name)} public`,
+  MemberEvent: (e) => `👥 ${e.payload.action === "added" ? "Added" : "Updated"} a collaborator on ${repoUrl(e.repo.name)}`,
+
+  IssuesEvent: (e) => {
+    const a = e.payload.action;
+    const emoji = a === "opened" ? "❗" : a === "closed" ? "🔒" : a === "reopened" ? "🔓" : "ℹ️";
+    return `${emoji} ${cap(a)} issue [#${e.payload.issue.number}](${e.payload.issue.html_url}) in ${repoUrl(e.repo.name)}`;
+  },
+  IssueCommentEvent: (e) =>
+    `🗣️ Commented on [#${e.payload.issue.number}](${e.payload.comment.html_url}) in ${repoUrl(e.repo.name)}`,
+  PullRequestEvent: (e) => {
+    const a = e.payload.action;
+    const merged = e.payload.pull_request?.merged;
+    const emoji = merged ? "🎉" : a === "opened" ? "💪" : a === "closed" ? "❌" : "🔄";
+    const label = merged ? "Merged" : cap(a);
+    return `${emoji} ${label} PR [#${e.payload.pull_request.number}](${e.payload.pull_request.html_url}) in ${repoUrl(e.repo.name)}`;
+  },
+  ReleaseEvent: (e) =>
+    `🚀 ${cap(e.payload.action)} release [${e.payload.release.tag_name}](${e.payload.release.html_url}) in ${repoUrl(e.repo.name)}`,
+};
+
+function cap(s) { return s ? s[0].toUpperCase() + s.slice(1) : s; }
+
+const res = await fetch(`https://api.github.com/users/${USER}/events/public?per_page=30`, {
+  headers: {
+    Authorization: `Bearer ${TOKEN}`,
+    "User-Agent": "github-activity-updater",
+    Accept: "application/vnd.github+json",
+  },
+});
+
+if (!res.ok) {
+  console.error("GitHub API error:", res.status, await res.text());
+  process.exit(1);
+}
+
+const events = await res.json();
+const lines = [];
+const seen  = new Set();
+
+for (const e of events) {
+  if (lines.length >= MAX_LINES) break;
+  const r = renderers[e.type];
+  if (!r) continue;
+  const line = await r(e);
+  if (seen.has(line)) continue;
+  seen.add(line);
+  lines.push(`- ${line} · _${ago(e.created_at)}_`);
+}
+
+if (lines.length === 0) {
+  lines.push("- _(no recent public activity yet — check back soon!)_");
+}
+
+const block =
+  `<!--START_SECTION:activity-->\n` +
+  lines.join("\n") + "\n" +
+  `<!--END_SECTION:activity-->`;
+
+const readme  = await readFile(TARGET, "utf8");
+const updated = readme.replace(
+  /<!--START_SECTION:activity-->[\s\S]*?<!--END_SECTION:activity-->/,
+  block,
+);
+
+if (updated === readme) {
+  console.log("No changes.");
+  process.exit(0);
+}
+
+await writeFile(TARGET, updated);
+console.log(`Updated ${TARGET} with ${lines.length} activity line(s).`);

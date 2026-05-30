@@ -1,68 +1,63 @@
-# 👋 Hi, I'm Muhammad Tayyab
+<!-- ───────────────  Hero  ─────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/hero-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/hero-banner-light.svg">
+  <img alt="Ibrar Ahmad — Biosensor & embedded engineer" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/hero-banner-dark.svg" width="100%">
+</picture>
 
-Welcome to my GitHub! I'm an Electrical Engineer and Embedded Systems Developer with a passion for designing intelligent products — from low-level firmware to complete hardware-software integration.
-
-💡 **What I do**:
-- 👨‍💻 Embedded Systems (STM32, ESP32, FreeRTOS, CMSIS)
-- 📱 GUI Development (PyQt5, SquareLine Studio, React Native)
-- 🔌 IoT & Connectivity (BLE, WiFi, GPS, Satellite Comms)
-- 🛠 PCB Design & Prototyping (KiCad, Altium)
-- ⚙️ Machine Interfaces & Automation
-- 🚀 Rapid Prototyping & Product Development
-
-<!--📈 I'm also the founder of **MT Tech**, where I provide freelance services in embedded systems and product development.-->
+**Embedded Systems Engineer** with 2+ years of hands-on experience delivering embedded firmware, medical devices, and industrial automation systems. 
+Proven ability to lead cross-functional teams, own full product lifecycles, and translate requirements into 
+deployable hardware–software solutions. Successfully managed **20+ concurrent technical projects**, 
+reduced development bottlenecks, and mentored junior engineers. Passionate about scable engineering, medical technologies, and automation.
 
 
-🧠 Always learning:  
-- Currently exploring **Data Science** and **AI for embedded systems**  
-- Building a personal project: *OTS-Glucometerr**
+Based in **Islamabad, Pakistan**. Studied at **National University of Technology**. Available for hardware, firmware, R&D, PCB design.
+
+📫 **m.tayyabtahir1002@gmail.com** · [LinkedIn](https://www.linkedin.com/in/muhammadtayyab1002) · [Portfolio](https://muhammadtayyab1002.github.io/) · [Upwork](https://www.upwork.com/freelancers/~016c1847c21c57a4ed?mp_source=share)
 
 ---
 
-### 🧰 Tools & Technologies
+## Selected work
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
-![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=flat&logo=kicad)
-![Altium Designer](https://img.shields.io/badge/-Altium-FF6C37?style=flat&logo=altiumdesigner)
-![Keil](https://img.shields.io/badge/-Keil-1C1C1C?style=flat&logo=arm)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
-![OpenCV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv)
+### [STM Step Control](https://github.com/MuhammadTayyab1002/STM-StepControl) — Precise Stepper Control Library
+Provides an easy-to-use interface for controlling stepper motors using STM microcontrollers and driver modules. It supports two pulse generation methods: - **Delay-based control** for precise step timing. - **PWM-based control** for efficient and scalable pulse output.
+<sub> C · Bare Metal · Keil · Stepper · Motor Control · STM32</sub>
 
----
+### [Thermoforming Machine](https://github.com/MuhammadTayyab1002/Thermoforming) — Catheter Tip Shaping Machine
+A specialized piece of equipment used in the use in early prototype shaping of  catheters in **Catheter Research & Development**. It utilizes heat and pressure to mold catheter tip into specific shapes and designs needed. Developed at **Revive Medical Technologies**
+<sub> Altium · STM32L432KC · PID · Thermocouple · Ceramic Heaters · Nextion Display · State Machine</sub>
 
-### 📂 Featured Projects
-
-- 🔌 **Stepper Motor Driver Library** – Custom C library for pulse-based and PWM-based control
-- 🖥 **Thermoforming Machine GUI** – Dual-mode interface for industrial control
-- 🛰 **ESP32 GPS-Satellite Tracker** – Real-time tracking using Neo-6M + Swarm
+### [Electroplating Machine](https://github.com/MuhammadTayyab1002/Ignius_EM) — FDM & SLA Electro Plating Machine
+A specialized mahcine design to give fdm and sla prints a metallic finish. With remote monitoring and control through App & Web. Designed to
+give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
+<sub> Altium · ESP · C · C++ · Power Management </sub>
 
 ---
 
----
+## Tech matrix
 
-### 📊 GitHub Stats & Contributions
-
-![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadTayyab1002&show_icons=true&theme=default)
-
-![Tayyab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadTayyab1002&theme=default)
-
-![Tayyab's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTayyab1002&theme=light)
-
----
-
-### 📫 Let's Connect
-
-- 🌐 [Portfolio Website](https://muhammadtayyab1002.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-eng/)
-- ✉️ m.tayyabtahir1002@gmail.com
+| | |
+|---|---|
+| **Hardware**  | Altium Designer · KiCad · multi-layer PCB ·|
+| **Silicon**   | STM32 · ESP32 · Nordic nRF52/53 · ATmega |
+| **Firmware**  | C · C++ · Python · FreeRTOS · Zephyr · OTA |
+| **Bench**     | JTAG / SWD · oscilloscope · logic analyzer · power profiling |
 
 ---
 
-> “Build with purpose. Code with impact.”
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/profile-3d-contrib/profile-green.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/MuhammadTayyab1002/MuhammadTayyab1002/output/profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
+
+---
+
+## Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>Refreshed hourly from the GitHub Events API.</sub>
