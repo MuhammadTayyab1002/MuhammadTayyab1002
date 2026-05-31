@@ -58,14 +58,14 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Projects Left* · _39m ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit Hero* · _2h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Minimal Changes* · _3h ago_
-- 🍴 Forked [undefined](https://github.com/undefined) · _4h ago_
-- ⭐ Starred [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _23h ago_
-- ⭐ Starred [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) · _23h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests loc changed* · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests added* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit* · _32m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Added Projects* · _44m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Projects Left* · _2h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit Hero* · _3h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Minimal Changes* · _5h ago_
+- 🍴 Forked [undefined](https://github.com/undefined) · _6h ago_
+- ⭐ Starred [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _1d ago_
+- ⭐ Starred [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) · _1d ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
