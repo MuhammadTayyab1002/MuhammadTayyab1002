@@ -58,14 +58,14 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⭐ Starred [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _17h ago_
-- ⭐ Starred [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests loc changed* · _20h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests added* · _20h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Update README.md* · _20h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Edit* · _20h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Updated* · _20h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Readme Updated* · _20h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Minimal Changes* · _1m ago_
+- 🍴 Forked [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _1h ago_
+- ⭐ Starred [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _19h ago_
+- ⭐ Starred [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) · _19h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests loc changed* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests added* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Update README.md* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Edit* · _22h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
