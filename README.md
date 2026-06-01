@@ -58,12 +58,12 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit* · _7h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Added Projects* · _7h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Projects Left* · _9h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit Hero* · _10h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Minimal Changes* · _12h ago_
-- 🍴 Forked [undefined](https://github.com/undefined) · _13h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit* · _8h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Added Projects* · _8h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Projects Left* · _10h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit Hero* · _12h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Minimal Changes* · _13h ago_
+- 🍴 Forked [undefined](https://github.com/undefined) · _14h ago_
 - ⭐ Starred [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _1d ago_
 - ⭐ Starred [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) · _1d ago_
 <!--END_SECTION:activity-->
