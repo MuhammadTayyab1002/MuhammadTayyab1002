@@ -58,14 +58,14 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Test 3* · _31m ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Test 2* · _44m ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *new check* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Testing for Image url err* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *edit util* · _2h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Lint err corrected* · _2h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit next.config* · _2h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *edit homepage* · _2h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Test 3* · _4h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Test 2* · _4h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *new check* · _5h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Testing for Image url err* · _5h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *edit util* · _6h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Lint err corrected* · _6h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *Edit next.config* · _6h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/personal-site](https://github.com/MuhammadTayyab1002/personal-site) — *edit homepage* · _6h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
