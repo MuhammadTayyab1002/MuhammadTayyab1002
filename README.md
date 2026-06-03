@@ -58,14 +58,14 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/STM-StepControl](https://github.com/MuhammadTayyab1002/STM-StepControl) — *Edit Readme.md* · _21h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *new webpage added* · _21h ago_
-- 🍴 Forked [undefined](https://github.com/undefined) · _2d ago_
-- ⭐ Starred [mldangelo/personal-site](https://github.com/mldangelo/personal-site) · _3d ago_
-- ⭐ Starred [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests loc changed* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *assests added* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/MuhammadTayyab1002](https://github.com/MuhammadTayyab1002/MuhammadTayyab1002) — *Update README.md* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Link added* · _6m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Remove slash* · _10m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *edit* · _14m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Edit url in html* · _20m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Edit url in .js* · _21m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Image names* · _22m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Edit images names* · _25m ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Edit* · _32m ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
