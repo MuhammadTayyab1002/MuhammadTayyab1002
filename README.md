@@ -58,14 +58,14 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Gimble](https://github.com/MuhammadTayyab1002/Gimble) — *Initiation* · _22h ago_
-- 🌱 Created branch `main` in [MuhammadTayyab1002/Gimble](https://github.com/MuhammadTayyab1002/Gimble) · _23h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Gesture_Controlled_Robot](https://github.com/MuhammadTayyab1002/Gesture_Controlled_Robot) — *Added html* · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added STM Step Control Link* · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/STM-StepControl](https://github.com/MuhammadTayyab1002/STM-StepControl) — *Edit Example Codes* · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Link added* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *Remove slash* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Thermoforming.github.io](https://github.com/MuhammadTayyab1002/Thermoforming.github.io) — *edit* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added GCR Link* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *project link added* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Edit Readme.md* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Minor Edit* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Edited* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Initiation* · _1d ago_
+- 🌱 Created branch `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Gesture_Controlled_Robot](https://github.com/MuhammadTayyab1002/Gesture_Controlled_Robot) — *Added html* · _3d ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
