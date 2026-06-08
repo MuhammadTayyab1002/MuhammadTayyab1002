@@ -58,11 +58,11 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added GCR Link* · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *project link added* · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Edit Readme.md* · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Minor Edit* · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Edited* · _17h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added GCR Link* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *project link added* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Edit Readme.md* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Minor Edit* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Edited* · _22h ago_
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Initiation* · _1d ago_
 - 🌱 Created branch `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/Gesture_Controlled_Robot](https://github.com/MuhammadTayyab1002/Gesture_Controlled_Robot) — *Added html* · _3d ago_
