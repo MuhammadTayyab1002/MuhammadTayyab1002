@@ -58,7 +58,7 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🌱 Created branch `main` in [MuhammadTayyab1002/FitBand](https://github.com/MuhammadTayyab1002/FitBand) · _11h ago_
+- 🌱 Created branch `main` in [MuhammadTayyab1002/FitBand](https://github.com/MuhammadTayyab1002/FitBand) · _13h ago_
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Edited for lint err* · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added Link for BP POC* · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Readme.MD Updated* · _1d ago_
