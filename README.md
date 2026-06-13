@@ -58,14 +58,14 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🌱 Created branch `main` in [MuhammadTayyab1002/FitBand](https://github.com/MuhammadTayyab1002/FitBand) · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Edited for lint err* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added Link for BP POC* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Readme.MD Updated* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Initial* · _3d ago_
-- 🌱 Created branch `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Remove Info Div* · _4d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Replaced stl viewer with Altium Viewer* · _4d ago_
+- 🌱 Created branch `main` in [MuhammadTayyab1002/FitBand](https://github.com/MuhammadTayyab1002/FitBand) · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Edited for lint err* · _4d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added Link for BP POC* · _4d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Readme.MD Updated* · _4d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Initial* · _4d ago_
+- 🌱 Created branch `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) · _4d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Remove Info Div* · _5d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Replaced stl viewer with Altium Viewer* · _5d ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
