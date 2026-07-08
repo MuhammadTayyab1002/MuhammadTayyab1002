@@ -64,8 +64,6 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Readme.MD Updated* · _2026-06-09_
 - ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) — *Initial* · _2026-06-09_
 - 🌱 Created branch `main` in [MuhammadTayyab1002/BP-Monitor-POC](https://github.com/MuhammadTayyab1002/BP-Monitor-POC) · _2026-06-09_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Remove Info Div* · _2026-06-08_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/3-Axis-Stabilizer](https://github.com/MuhammadTayyab1002/3-Axis-Stabilizer) — *Replaced stl viewer with Altium Viewer* · _2026-06-08_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
