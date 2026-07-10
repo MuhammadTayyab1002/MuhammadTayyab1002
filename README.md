@@ -58,7 +58,7 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🌱 Created branch `main` in [MuhammadTayyab1002/FitBand](https://github.com/MuhammadTayyab1002/FitBand) · _2026-06-10_
+- _(no recent public activity yet — check back soon!)_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
