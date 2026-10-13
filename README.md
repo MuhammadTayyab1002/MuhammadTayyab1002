@@ -58,8 +58,8 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Update index.html* · _16h ago_
-- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Solar_Calculator* · _16h ago_
+- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Update index.html* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Solar_Calculator* · _1d ago_
 - ⭐ Starred [Sense-Ring/Sense-Ring-1.0](https://github.com/Sense-Ring/Sense-Ring-1.0) · _2026-09-14_
 <!--END_SECTION:activity-->
 
