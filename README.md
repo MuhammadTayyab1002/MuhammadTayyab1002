@@ -58,8 +58,8 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Update index.html* · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Solar_Calculator* · _2d ago_
+- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Update index.html* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Solar_Calculator* · _3d ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
