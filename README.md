@@ -58,8 +58,8 @@ give FDM and SLA prints metallic finish. Developed at **IGNIUS**.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added New Project* · _4d ago_
-- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Sync package-lock.json* · _4d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Added New Project* · _5d ago_
+- ⬆️ Pushed `1` commit to `main` in [MuhammadTayyab1002/muhammadtayyab1002.github.io](https://github.com/MuhammadTayyab1002/muhammadtayyab1002.github.io) — *Sync package-lock.json* · _5d ago_
 - ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Update index.html* · _2026-10-12_
 - ⬆️ Pushed `1` commit to `main` in [MTTechOfficial/MTTechOfficial.github.io](https://github.com/MTTechOfficial/MTTechOfficial.github.io) — *Solar_Calculator* · _2026-10-12_
 <!--END_SECTION:activity-->
